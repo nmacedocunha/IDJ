@@ -56,5 +56,26 @@ namespace TCGCollection
                 }
             }
         }
+        
+        
+        #region Methods explicit in exercise
+        public void ListCreatures()
+        {
+            foreach (var item in collection)
+            {
+                if (item.GetType().Equals(typeof(TCGMonster)))
+                    Console.WriteLine(item);
+            }
+        }
+
+        public void ListEnchatments()
+        {
+            foreach (var item in collection)
+            {
+                if (item.GetType().Equals(typeof(TCGEnchament)))
+                    Console.WriteLine(item);
+            }
+        }
+        #endregion
     }
 }
