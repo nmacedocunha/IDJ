@@ -1,0 +1,6 @@
+/Users/nmacedocunha/Projects/TCGCollection/TCGCollection/bin/Debug/TCGCollection.exe
+/Users/nmacedocunha/Projects/TCGCollection/TCGCollection/bin/Debug/TCGCollection.pdb
+/Users/nmacedocunha/Projects/TCGCollection/TCGCollection/obj/x86/Debug/TCGCollection.csprojAssemblyReference.cache
+/Users/nmacedocunha/Projects/TCGCollection/TCGCollection/obj/x86/Debug/TCGCollection.csproj.CoreCompileInputs.cache
+/Users/nmacedocunha/Projects/TCGCollection/TCGCollection/obj/x86/Debug/TCGCollection.exe
+/Users/nmacedocunha/Projects/TCGCollection/TCGCollection/obj/x86/Debug/TCGCollection.pdb
